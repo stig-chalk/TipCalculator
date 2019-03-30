@@ -30,7 +30,7 @@ class ViewController: UIViewController {
         let tot = b + t
         tip.text = String(format: "$%.2f", t)
         total.text = String(format: "$%.2f", tot)
-        
     }
+
 }
 
